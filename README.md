@@ -43,6 +43,7 @@
 
 ---
 # Stats
+### bmcentos
 <div>
   <a href="https://github.com/bmcentos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmcentos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -54,6 +55,23 @@
     <td>
       <a href="https://github.com/bmcentos">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmcentos&layout=compact&langs_count=7&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### bsmiquelini (This)
+<div>
+  <a href="https://github.com/bsmiquelini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsmiquelini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/bmcentos">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmiquelini&layout=compact&langs_count=7&theme=dark"/>
       </a>
     </td>
   </tr>
